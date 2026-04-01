@@ -1,4 +1,6 @@
 <img width="437" height="248" alt="Image" src="https://github.com/user-attachments/assets/44b31366-7796-4a30-a217-94519dc686fe" />
+
+
 # MEDIDOR-TEMPERATURA[README.md](https://github.com/user-attachments/files/26422095/README.md)
 # 🌡️ Sistema de Monitoramento de Temperatura com IA
 
